@@ -35,7 +35,7 @@ market aware system/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yash6333/Market-Aware-Crop-Recommendation.git
+git clone https://github.com/rushikesh0007/Market-Aware-Crop-Recommendation.git
 cd Market-Aware-Crop-Recommendation
 ```
 
