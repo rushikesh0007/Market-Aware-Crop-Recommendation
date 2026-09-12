@@ -235,4 +235,4 @@ Streamlit should print a URL like `http://localhost:8501`. Just open that manual
 
 ## 📬 Questions?
 
-If something's broken or you're not sure about something, just message Yash before editing shared files like `data/market_prices.csv` or `crop_model.pkl` — those affect everyone.
+If something's broken or you're not sure about something, just message me before editing shared files like `data/market_prices.csv` or `crop_model.pkl` — those affect everyone.
