@@ -27,6 +27,8 @@ market aware system/
 
 ## ⚙️ Setup (Do This Once)
 
+LIVE APP LINK -- https://market-aware-crop-recommendation.streamlit.app/
+
 ### Prerequisites
 - Python **3.9 or higher**
 - `pip` (comes with Python)
